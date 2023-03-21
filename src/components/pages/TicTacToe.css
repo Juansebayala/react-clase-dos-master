@@ -44,3 +44,11 @@
   opacity: 0;
   pointer-events: none;
 }
+
+.current-player {
+  padding-bottom: 10px;
+}
+
+.current-player--hidden {
+  opacity: 0;
+}
